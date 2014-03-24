@@ -18,7 +18,7 @@ my %WriteMakefileArgs = (
   },
   "DISTNAME" => "Acme-CatFS",
   "EXE_FILES" => [
-    "bin/catfs"
+    "bin/acme-catfs"
   ],
   "LICENSE" => "perl",
   "NAME" => "Acme::CatFS",
@@ -36,7 +36,7 @@ my %WriteMakefileArgs = (
     "Test::More" => 0,
     "Test::TinyMocker" => 0
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }

@@ -28,4 +28,4 @@ resources:
   bugtracker: https://github.com/peczenyj/catfs/issues
   homepage: https://github.com/peczenyj/catfs
   repository: git://github.com/peczenyj/catfs.git
-version: 0.001
+version: 0.002

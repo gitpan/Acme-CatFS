@@ -4,7 +4,8 @@ MANIFEST
 META.yml
 Makefile.PL
 README
-bin/catfs
+README.md
+bin/acme-catfs
 dist.ini
 lib/Acme/CatFS.pm
 t/00-load.t
